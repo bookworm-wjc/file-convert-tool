@@ -32,4 +32,5 @@ def trans_ipnb_into_py(path):
 
 
 if __name__=='__main__':
-    trans_ipnb_into_py('D:/Softwares/JupyterNotebookFiles/Machine Learning/Course2_Advanced_Learning_Algorithms/week3/work/C2_W3_Assignment.ipynb')
+    trans_ipnb_into_py('test.ipynb')
+
